@@ -1,6 +1,6 @@
 ```json
 {
-  "name": "YouT",
+  "name": "YouTube Multiple video player",
   "version": "1.0.0",
   "description": "A new to play YouTube videos multiple times to increase views",
   "main": "index.html",
